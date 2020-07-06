@@ -1,5 +1,5 @@
 
-.hamBurger:hover+.nav-items{
+header ul:hover .nav-items , header ul:focus .nav-items{
     display: flex;  
 }
 
